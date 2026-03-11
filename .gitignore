@@ -1,6 +1,6 @@
 #my_ignore
 test
-
+tester.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
